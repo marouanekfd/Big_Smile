@@ -6,7 +6,6 @@ import Magnify from './components/Magnify';
 import About from './components/About';
 import Work from './components/Work';
 import Bio from './components/Bio';
-import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Support from './components/Support';
 import Home from './components/Home';
